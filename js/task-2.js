@@ -41,4 +41,5 @@ const galleryList = document.querySelector('.gallery');
     return item;
   });
 
-  galleryList.append(...galleryItems);
+galleryList.append(...galleryItems);
+  
